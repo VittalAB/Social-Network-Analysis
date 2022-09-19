@@ -4,6 +4,3 @@ Social Network Analysis in Python and Julia using Networkx,IGraph and LightGraph
 ### In Python
 - NetworkX
 - IGraph
-
-### In Julia
-- LightGraoh.jl
